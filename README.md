@@ -18,7 +18,8 @@ Building a secure future is exactly like building a house—it must be built fro
 
 ## 📅 Community Education Schedule
 We are rolling this out to our community platform in small, bite-sized parts. Use these references to study along:
-* 📌 **Lesson 1:** The Mindset Shift (Spenders vs. Savers)](lesson1.html)⁠
+* [📌 Lesson 1: The Mindset Shift (Spenders vs. Savers)](lesson1.html)
+
 * 📌 **Lesson 2:** The 5 Building Blocks of Finance
 * 📌 **Lesson 3:** Understanding the X-Curve Concept
 * 📌 **Lesson 4:** The 2 Critical Life Questions
