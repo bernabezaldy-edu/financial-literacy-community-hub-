@@ -24,7 +24,7 @@ We are rolling this out to our community platform in small, bite-sized parts. Us
 * 📌 [Lesson 3: Understanding the X-Curve Concept](lesson3.md)
 * 📌 [Lesson 3: Understanding the X-Curve Concept](lesson3.md)
 * 📌 [Lesson 4: The 2 Critical Life Questions](lesson4.md)
-* 📌 **Lesson 5:** Income Protection Math (The 10x Rule)
+* 📌 [Lesson 5: Income Protection Math (The 10x Rule)](./lessons/lesson-5.md)
 
 ---
 
