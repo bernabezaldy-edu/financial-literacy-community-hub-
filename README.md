@@ -23,7 +23,7 @@ We are rolling this out to our community platform in small, bite-sized parts. Us
 * 📌 [Lesson 2: The 5 Building Blocks of Finance](lesson2.md)
 * 📌 [Lesson 3: Understanding the X-Curve Concept](lesson3.md)
 * 📌 [Lesson 3: Understanding the X-Curve Concept](lesson3.md)
-* 📌 **Lesson 4:** The 2 Critical Life Questions
+* 📌 [Lesson 4: The 2 Critical Life Questions](lesson4.md)
 * 📌 **Lesson 5:** Income Protection Math (The 10x Rule)
 
 ---
