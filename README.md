@@ -21,7 +21,8 @@ We are rolling this out to our community platform in small, bite-sized parts. Us
 * [📌 Lesson 1: The Mindset Shift (Spenders vs. Savers)](lesson1.md)
 
 * 📌 [Lesson 2: The 5 Building Blocks of Finance](lesson2.md)
-* 📌 **Lesson 3:** Understanding the X-Curve Concept
+* 📌 [Lesson 3: Understanding the X-Curve Concept](lesson3.md)
+* 📌 [Lesson 3: Understanding the X-Curve Concept](lesson3.md)
 * 📌 **Lesson 4:** The 2 Critical Life Questions
 * 📌 **Lesson 5:** Income Protection Math (The 10x Rule)
 
