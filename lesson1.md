@@ -1,4 +1,10 @@
 # 📌 Lesson 1: The Mindset Shift (Spenders vs. Savers)
+### 📺 Recommended Video Resource
+Learn more about transitioning from a Spender to a Saver mindset with this financial coaching video from IMG Advocate, Dr. Jaime Lorenzo:
+
+[![Money Tips: 6 Steps para Umasenso I IMG Financial Coaching](https://img.youtube.com/vi/lt4IQMDzakc/0.jpg)](https://www.youtube.com/watch?v=lt4IQMDzakc)
+
+*Click the image above to watch the video on YouTube:* [Money Tips: 6 Steps para Umasenso I IMG Financial Coaching](https://www.youtube.com/watch?v=lt4IQMDzakc)
 
 To build a secure financial future, the very first step isn't tracking your expenses or picking stocks—it is changing how you view money. You must transition from a consumer mindset to a wealth-building mindset.
 
