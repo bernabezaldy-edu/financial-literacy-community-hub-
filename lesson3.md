@@ -1,4 +1,10 @@
 # Lesson 3: Understanding the X-Curve Concept
+### 📺 Recommended Video Resource
+Dive deeper into the X-Curve Concept with this dedicated video from IMG Educator Dr. Jaime Lorenzo, explaining the balance between building wealth and decreasing responsibilities over time:
+
+[![Ano nga ba ang X Curve Concept?](https://img.youtube.com/vi/37oBDMXfRQk/0.jpg)](https://www.youtube.com/watch?v=37oBDMXfRQk)
+
+*Click the image above to watch the video on YouTube:* [Ano nga ba ang X Curve Concept?](https://www.youtube.com/watch?v=37oBDMXfRQk)
 
 Welcome to Lesson 3. The X-Curve is a powerful visual concept that describes how your responsibilities decrease over time while your wealth increases. It focuses on balancing security today with financial freedom tomorrow.
 
