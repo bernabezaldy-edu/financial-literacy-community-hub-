@@ -1,4 +1,10 @@
 # Lesson 2: The 5 Building Blocks of Finance
+### 📺 Recommended Video Resource
+Watch IMG Educator Dr. Jaime Lorenzo explain how to properly build a solid financial house using the 5 building blocks of finance:
+
+[![Money Tips: 6 Steps para Umasenso I IMG Financial Coaching](https://img.youtube.com/vi/lt4IQMDzakc/0.jpg)](https://www.youtube.com/watch?v=lt4IQMDzakc)
+
+*Click the image above to watch the video on YouTube:* [Money Tips: 6 Steps para Umasenso I IMG Financial Coaching](https://www.youtube.com/watch?v=lt4IQMDzakc)
 
 Welcome to Lesson 2. To build a solid financial house, you must build **from the ground up** to ensure it withstands unexpected storms.
 
