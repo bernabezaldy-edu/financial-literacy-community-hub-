@@ -1,4 +1,10 @@
 # Lesson 4: The 2 Critical Life Questions
+### 📺 Recommended Video Resource
+Listen to IMG Advocate Dr. Jaime Lorenzo dive deep into the 2 Critical Life Questions. Learn how to prepare for the "what ifs" of life by securing both your family's protection and your own retirement:
+
+[![Money Tips: 6 Steps para Umasenso I IMG Financial Coaching](https://img.youtube.com/vi/lt4IQMDzakc/0.jpg)](https://www.youtube.com/watch?v=lt4IQMDzakc)
+
+*Click the image above to watch the video on YouTube:* [Money Tips: 6 Steps para Umasenso I IMG Financial Coaching](https://www.youtube.com/watch?v=lt4IQMDzakc)
 
 Welcome to Lesson 4. In our previous lesson, we explored how our responsibilities shift as we age along the X-Curve. Today, we look at the two defining questions that determine the financial security of every family. 
 
