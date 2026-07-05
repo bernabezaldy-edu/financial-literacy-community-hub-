@@ -34,8 +34,7 @@ The **X-Curve Concept** is a fundamental pillar of financial planning. It visual
 
 
 ### Understanding the X-Curve
-
-<img src="image.png" alt="The IMG X-Curve Diagram" width="100%">
+<img width="768" height="1376" alt="IMG_8233" src="https://github.com/user-attachments/assets/323dc0f5-e1f3-4685-b8ef-27e4d32b8831" />
 
 The X-Curve shows how your benefits and premiums are structured to optimize your financial security over time...
 
